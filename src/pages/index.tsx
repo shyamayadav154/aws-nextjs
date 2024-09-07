@@ -36,6 +36,9 @@ export default function Home() {
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
+        <h1 className="text-4xl sm:text-5xl font-bold text-center sm:text-left">
+        This is the sst deploy project
+        </h1>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
